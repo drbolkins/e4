@@ -21,8 +21,7 @@ Do czego może prowadzić sytuacja, w której tego nie zrobimy?
   1.	Będzie miała konstruktor przyjmujący nazwę, mail i opis,
   2.	Miała funkcję (dodaną poprzez prototyp) ```welcomeUser```, która wyświetli w konsoli przywitanie,
 
-Stwórz obiekt tej klasy i dopisz do niego dodatkową metodę ```sayGoodbye```. Metoda ta powinna wypisać pożegnanie w konsoli.
-
+  Stwórz obiekt tej klasy i dopisz do niego (tylko i wycznie do tego stworzonego obiektu) dodatkową metodę ```sayGoodbye```. Metoda ta   powinna wypisać pożegnanie w konsoli.
 
 4. (5ptk) Używając JavaScript (lub jQuery):
   1. Znajdź wszystkie elementy o klasie ```sample_class``` i wypisz w konsoli ich tagi,
