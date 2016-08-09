@@ -61,8 +61,11 @@ Do wszystkich guzików znajdujących się na stronie dopisz event, który po nac
 
 
 ## Zadanie 6
+
 (6 pkt)  
+
 Do formularza dopisz event reagujący na jego wysłanie. Po wciśnięciu przycisku ```submit``` funkcja eventu powinna:
+
 1. Zapobiegać przeładowaniu strony.
 2. Sprawdzić, czy długość danych w polu **Imię** jest dłuższa niż pięć znaków. Jeżeli warunek nie jest spełniony, odpowiednia wiadomość powinna być pokazana w **divie** o **klasie** ```error_message```,
 3. Sprawdzić, czy wartości pól **Hasło** i **Hasło2** są identyczne. Jeżeli warunek nie jest spełniony, odpowiednia wiadomość powinna być pokazana w **divie** o **klasie**```error_message```.
