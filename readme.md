@@ -1,4 +1,4 @@
-# Podstawy PHP &ndash; egzamin 3
+# Javascript i jQuery &ndash; egzamin 3
 
 ## Wytyczne
 
