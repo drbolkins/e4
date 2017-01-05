@@ -1,5 +1,4 @@
-# Javascript i jQuery &ndash; egzamin 3
-
+# Javascript i jQuery &ndash; egzamin.
 ## Wytyczne
 
 1. Żeby zacząć, stwórz tak zwany [**fork**][forking] repozytorium z zadaniami.
