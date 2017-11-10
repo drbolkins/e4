@@ -1,0 +1,5 @@
+1. Propagacja jest to przekazywanie eventów w górę/doł drzewa naszego obiektu DOM.
+Propagacja może być w górę(bubbling) czyli np. przycisk zagnieżdżony w divie będzie przekazywał podpięty event do div-a.(zależnie od tego czy jest też podpięty inny event tego samego typu, moze się wykonać tam też kod.
+Z kolei propagacja w dół (capturing) występowała w starszych przeglądarkach i oznacza propagację w dół (do dziecka).
+
+2.Umieszczanie kodu w takiej funkcji gwarantuje nam że skrypt nie wykona się bez sprawdzenia całego kodu na poprawność. Bez tego kod mógłby wykonać się np. połowicznie i zatrzymać.
